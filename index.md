@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Hello, world!"
 ```
+- [x] Syntax correct
+- [ ] Ein leeres File
+- [ ] Noch ein File
